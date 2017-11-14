@@ -11,3 +11,4 @@ class Alumno < Persona
     super + ", #{@titulacion}, #{@num_matricula}"
   end
 end
+
